@@ -1,0 +1,819 @@
+[
+    {
+        "title": "Inception",
+        "genre": "ACTION",
+        "author": "Christopher Nolan",
+        "rating": 8.8
+    },
+    {
+        "title": "Titanic",
+        "genre": "ROMANCE",
+        "author": "James Cameron",
+        "rating": 7.8
+    },
+    {
+        "title": "Gladiator",
+        "genre": "DRAMA",
+        "author": "Ridley Scott",
+        "rating": 8.5
+    },
+    {
+        "title": "Avatar",
+        "genre": "FANTASY",
+        "author": "James Cameron",
+        "rating": 7.9
+    },
+    {
+        "title": "Matrix",
+        "genre": "ACTION",
+        "author": "The Wachowskis",
+        "rating": 8.7
+    },
+    {
+        "title": "Jaws",
+        "genre": "THRILLER",
+        "author": "Steven Spielberg",
+        "rating": 8.0
+    },
+    {
+        "title": "Shawshank",
+        "genre": "DRAMA",
+        "author": "Frank Darabont",
+        "rating": 9.3
+    },
+    {
+        "title": "Pulp",
+        "genre": "COMEDY",
+        "author": "Quentin Tarantino",
+        "rating": 8.9
+    },
+    {
+        "title": "Memento",
+        "genre": "THRILLER",
+        "author": "Christopher Nolan",
+        "rating": 8.4
+    },
+    {
+        "title": "Parasite",
+        "genre": "COMEDY",
+        "author": "Bong Joon-ho",
+        "rating": 8.6
+    },
+    {
+        "title": "Casino",
+        "genre": "DRAMA",
+        "author": "Martin Scorsese",
+        "rating": 8.2
+    },
+    {
+        "title": "Fightclub",
+        "genre": "DRAMA",
+        "author": "David Fincher",
+        "rating": 8.8
+    },
+    {
+        "title": "Godfather",
+        "genre": "DRAMA",
+        "author": "Francis Coppola",
+        "rating": 9.2
+    },
+    {
+        "title": "Her",
+        "genre": "DRAMA",
+        "author": "Spike Jonze",
+        "rating": 8.0
+    },
+    {
+        "title": "Shutter",
+        "genre": "HORROR",
+        "author": "Masayuki Ochiai",
+        "rating": 6.5
+    },
+    {
+        "title": "DarkKnight",
+        "genre": "ACTION",
+        "author": "Christopher Nolan",
+        "rating": 9.0
+    },
+    {
+        "title": "Snowpiercer",
+        "genre": "ACTION",
+        "author": "Bong Joon-ho",
+        "rating": 7.6
+    },
+    {
+        "title": "Whiplash",
+        "genre": "DRAMA",
+        "author": "Damien Chazelle",
+        "rating": 8.5
+    },
+    {
+        "title": "MadMax",
+        "genre": "ACTION",
+        "author": "George Miller",
+        "rating": 8.1
+    },
+    {
+        "title": "Deadpool",
+        "genre": "ACTION",
+        "author": "Tim Miller",
+        "rating": 8.0
+    },
+    {
+        "title": "Skyfall",
+        "genre": "THRILLER",
+        "author": "Sam Mendes",
+        "rating": 7.8
+    },
+    {
+        "title": "Logan",
+        "genre": "ACTION",
+        "author": "James Mangold",
+        "rating": 8.1
+    },
+    {
+        "title": "Beauty",
+        "genre": "ROMANCE",
+        "author": "Bill Condon",
+        "rating": 7.1
+    },
+    {
+        "title": "Trainspotting",
+        "genre": "DRAMA",
+        "author": "Danny Boyle",
+        "rating": 4.2
+    },
+    {
+        "title": "Atonement",
+        "genre": "ROMANCE",
+        "author": "Joe Wright",
+        "rating": 7.2
+    },
+    {
+        "title": "Se7en",
+        "genre": "THRILLER",
+        "author": "David Fincher",
+        "rating": 2.1
+    },
+    {
+        "title": "AngryMen",
+        "genre": "DRAMA",
+        "author": "Sidney Lumet",
+        "rating": 9.5
+    },
+    {
+        "title": "Oldboy",
+        "genre": "THRILLER",
+        "author": "Park Chan-wook",
+        "rating": 9.1
+    },
+    {
+        "title": "Goodfellas",
+        "genre": "DRAMA",
+        "author": "Martin Scorsese",
+        "rating": 8.4
+    },
+    {
+        "title": "Scarface",
+        "genre": "DRAMA",
+        "author": "Brian Palma",
+        "rating": 9.8
+    },
+    {
+        "title": "BigLebowski",
+        "genre": "COMEDY",
+        "author": "Joel Coen",
+        "rating": 3.6
+    },
+    {
+        "title": "Scream",
+        "genre": "HORROR",
+        "author": "Wes Craven",
+        "rating": 7.1
+    },
+    {
+        "title": "SocialNetwork",
+        "genre": "DRAMA",
+        "author": "David Fincher",
+        "rating": 6.7
+    },
+    {
+        "title": "Fargo",
+        "genre": "THRILLER",
+        "author": "Joel Coen",
+        "rating": 3.2
+    },
+    {
+        "title": "Batman",
+        "genre": "ACTION",
+        "author": "Tim Burton",
+        "rating": 5.3
+    },
+    {
+        "title": "SpiderMan",
+        "genre": "ACTION",
+        "author": "Sam Raimi",
+        "rating": 2.0
+    },
+    {
+        "title": "IronMan",
+        "genre": "ACTION",
+        "author": "Jon Favreau",
+        "rating": 9.4
+    },
+ 
+    {
+        "title": "Dune",
+        "genre": "FANTASY",
+        "author": "Denis Villeneuve",
+        "rating": 8.0
+    },
+    {
+        "title": "Alien",
+        "genre": "HORROR",
+        "author": "Ridley Scott",
+        "rating": 8.4
+    },
+    {
+        "title": "Predator",
+        "genre": "ACTION",
+        "author": "John McTiernan",
+        "rating": 7.8
+    },
+    {
+        "title": "Robocop",
+        "genre": "ACTION",
+        "author": "Paul Verhoeven",
+        "rating": 7.5
+    },
+    {
+        "title": "Psycho",
+        "genre": "HORROR",
+        "author": "Alfred Hitchcock",
+        "rating": 8.5
+    },
+    {
+        "title": "Vertigo",
+        "genre": "THRILLER",
+        "author": "Alfred Hitchcock",
+        "rating": 8.3
+    },
+    {
+        "title": "Chinatown",
+        "genre": "DRAMA",
+        "author": "Roman Polanski",
+        "rating": 8.2
+    },
+    {
+        "title": "Amadeus",
+        "genre": "DRAMA",
+        "author": "Milos Forman",
+        "rating": 8.3
+    },
+    {
+        "title": "Rocky",
+        "genre": "DRAMA",
+        "author": "John Avildsen",
+        "rating": 8.1
+    },
+    {
+        "title": "RagingBull",
+        "genre": "DRAMA",
+        "author": "Martin Scorsese",
+        "rating": 8.2
+    },
+    {
+        "title": "TaxiDriver",
+        "genre": "DRAMA",
+        "author": "Martin Scorsese",
+        "rating": 8.3
+    },
+    {
+        "title": "Braveheart",
+        "genre": "DRAMA",
+        "author": "Mel Gibson",
+        "rating": 8.4
+    },
+    {
+        "title": "ForrestGump",
+        "genre": "DRAMA",
+        "author": "Robert Zemeckis",
+        "rating": 8.8
+    },
+    {
+        "title": "GreenMile",
+        "genre": "DRAMA",
+        "author": "Frank Darabont",
+        "rating": 8.6
+    },
+    {
+        "title": "Schindler",
+        "genre": "DRAMA",
+        "author": "Steven Spielberg",
+        "rating": 8.9
+    },
+    {
+        "title": "AmericanHistoryX",
+        "genre": "DRAMA",
+        "author": "Tony Kaye",
+        "rating": 8.5
+    },
+    {
+        "title": "Fight",
+        "genre": "DRAMA",
+        "author": "David Fincher",
+        "rating": 8.8
+    },
+    {
+        "title": "Silence",
+        "genre": "DRAMA",
+        "author": "Martin Scorsese",
+        "rating": 7.2
+    },
+    {
+        "title": "Moonlight",
+        "genre": "DRAMA",
+        "author": "Barry Jenkins",
+        "rating": 7.4
+    },
+    {
+        "title": "Spotlight",
+        "genre": "DRAMA",
+        "author": "Tom McCarthy",
+        "rating": 8.1
+    },
+    {
+        "title": "Birdman",
+        "genre": "COMEDY",
+        "author": "Alejandro Gonzalez",
+        "rating": 7.7
+    },
+    {
+        "title": "GrandBudapest",
+        "genre": "COMEDY",
+        "author": "Wes Anderson",
+        "rating": 8.1
+    },
+    {
+        "title": "Borat",
+        "genre": "COMEDY",
+        "author": "Larry Charles",
+        "rating": 7.3
+    },
+    {
+        "title": "Superbad",
+        "genre": "COMEDY",
+        "author": "Greg Mottola",
+        "rating": 7.6
+    },
+    {
+        "title": "Hangover",
+        "genre": "COMEDY",
+        "author": "Todd Phillips",
+        "rating": 7.7
+    },
+    {
+        "title": "Anchorman",
+        "genre": "COMEDY",
+        "author": "Adam McKay",
+        "rating": 7.2
+    },
+    {
+        "title": "Zoolander",
+        "genre": "COMEDY",
+        "author": "Ben Stiller",
+        "rating": 6.6
+    },
+    {
+        "title": "TropicThunder",
+        "genre": "COMEDY",
+        "author": "Ben Stiller",
+        "rating": 7.0
+    },
+    {
+        "title": "Airplane",
+        "genre": "COMEDY",
+        "author": "Jim Abrahams",
+        "rating": 7.7
+    },
+    {
+        "title": "BluesBrothers",
+        "genre": "COMEDY",
+        "author": "John Landis",
+        "rating": 7.9
+    },
+    {
+        "title": "Ghostbusters",
+        "genre": "COMEDY",
+        "author": "Ivan Reitman",
+        "rating": 7.8
+    },
+    {
+        "title": "GroundhogDay",
+        "genre": "COMEDY",
+        "author": "Harold Ramis",
+        "rating": 8.0
+    },
+    {
+        "title": "ShaunDead",
+        "genre": "COMEDY",
+        "author": "Edgar Wright",
+        "rating": 7.9
+    },
+    {
+        "title": "HotFuzz",
+        "genre": "COMEDY",
+        "author": "Edgar Wright",
+        "rating": 7.8
+    },
+    {
+        "title": "WorldsEnd",
+        "genre": "COMEDY",
+        "author": "Edgar Wright",
+        "rating": 7.0
+    },
+    {
+        "title": "DeadAlive",
+        "genre": "HORROR",
+        "author": "Peter Jackson",
+        "rating": 7.5
+    },
+    {
+        "title": "EvilDead",
+        "genre": "HORROR",
+        "author": "Sam Raimi",
+        "rating": 7.5
+    },
+    {
+        "title": "Ring",
+        "genre": "HORROR",
+        "author": "Hideo Nakata",
+        "rating": 7.2
+    },
+    {
+        "title": "Conjuring",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 7.5
+    },
+    {
+        "title": "Hereditary",
+        "genre": "HORROR",
+        "author": "Ari Aster",
+        "rating": 7.3
+    },
+    {
+        "title": "Midsommar",
+        "genre": "HORROR",
+        "author": "Ari Aster",
+        "rating": 7.1
+    },
+    {
+        "title": "GetOut",
+        "genre": "HORROR",
+        "author": "Jordan Peele",
+        "rating": 7.7
+    },
+    {
+        "title": "Us",
+        "genre": "HORROR",
+        "author": "Jordan Peele",
+        "rating": 6.8
+    },
+    {
+        "title": "Candyman",
+        "genre": "HORROR",
+        "author": "Bernard Rose",
+        "rating": 6.7
+    },
+    {
+        "title": "Suspiria",
+        "genre": "HORROR",
+        "author": "Dario Argento",
+        "rating": 7.3
+    },
+    {
+        "title": "Halloween",
+        "genre": "HORROR",
+        "author": "John Carpenter",
+        "rating": 7.7
+    },
+    {
+        "title": "Nightmare",
+        "genre": "HORROR",
+        "author": "Wes Craven",
+        "rating": 7.5
+    },
+    {
+        "title": "Saw",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 7.6
+    },
+    {
+        "title": "Insidious",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 6.8
+    },
+    {
+        "title": "Sinister",
+        "genre": "HORROR",
+        "author": "Scott Derrickson",
+        "rating": 6.8
+    },
+    {
+        "title": "Omen",
+        "genre": "HORROR",
+        "author": "Richard Donner",
+        "rating": 7.5
+    },
+    {
+        "title": "Exorcist",
+        "genre": "HORROR",
+        "author": "William Friedkin",
+        "rating": 8.0
+    },
+    {
+        "title": "RosemarysBaby",
+        "genre": "HORROR",
+        "author": "Roman Polanski",
+        "rating": 8.0
+    },
+    {
+        "title": "Carrie",
+        "genre": "HORROR",
+        "author": "Brian Palma",
+        "rating": 7.4
+    },
+    {
+        "title": "Misery",
+        "genre": "HORROR",
+        "author": "Rob Reiner",
+        "rating": 7.8
+    },
+    {
+        "title": "Shining",
+        "genre": "HORROR",
+        "author": "Stanley Kubrick",
+        "rating": 8.4
+    },
+    {
+        "title": "DoctorSleep",
+        "genre": "HORROR",
+        "author": "Mike Flanagan",
+        "rating": 7.3
+    },
+    {
+        "title": "It",
+        "genre": "HORROR",
+        "author": "Andy Muschietti",
+        "rating": 7.3
+    },
+    {
+        "title": "ItChapterTwo",
+        "genre": "HORROR",
+        "author": "Andy Muschietti",
+        "rating": 6.5
+    },
+    {
+        "title": "QuietPlace",
+        "genre": "HORROR",
+        "author": "John Krasinski",
+        "rating": 7.5
+    },
+    {
+        "title": "Conjuring2",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 7.3
+    },
+    {
+        "title": "Annabelle",
+        "genre": "HORROR",
+        "author": "John Leonetti",
+        "rating": 5.4
+    },
+    {
+        "title": "Nun",
+        "genre": "HORROR",
+        "author": "Corin Hardy",
+        "rating": 5.3
+    },
+    {
+        "title": "Lighthouse",
+        "genre": "HORROR",
+        "author": "Robert Eggers",
+        "rating": 7.5
+    },
+    {
+        "title": "Witch",
+        "genre": "HORROR",
+        "author": "Robert Eggers",
+        "rating": 7.0
+    },
+    {
+        "title": "ColorOutOfSpace",
+        "genre": "HORROR",
+        "author": "Richard Stanley",
+        "rating": 6.2
+    },
+    {
+        "title": "Mandy",
+        "genre": "HORROR",
+        "author": "Panos Cosmatos",
+        "rating": 6.5
+    },
+    {
+        "title": "Climax",
+        "genre": "HORROR",
+        "author": "Gaspar Noe",
+        "rating": 7.0
+    },
+    {
+        "title": "Suspiria2018",
+        "genre": "HORROR",
+        "author": "Luca Guadagnino",
+        "rating": 6.7
+    },
+    {
+        "title": "Hereditary",
+        "genre": "HORROR",
+        "author": "Ari Aster",
+        "rating": 7.3
+    },
+    {
+        "title": "Midsommar",
+        "genre": "HORROR",
+        "author": "Ari Aster",
+        "rating": 7.1
+    },
+    {
+        "title": "GetOut",
+        "genre": "HORROR",
+        "author": "Jordan Peele",
+        "rating": 7.7
+    },
+    {
+        "title": "Us",
+        "genre": "HORROR",
+        "author": "Jordan Peele",
+        "rating": 6.8
+    },
+    {
+        "title": "Candyman",
+        "genre": "HORROR",
+        "author": "Bernard Rose",
+        "rating": 6.7
+    },
+    {
+        "title": "Suspiria",
+        "genre": "HORROR",
+        "author": "Dario Argento",
+        "rating": 7.3
+    },
+    {
+        "title": "Halloween",
+        "genre": "HORROR",
+        "author": "John Carpenter",
+        "rating": 7.7
+    },
+    {
+        "title": "Nightmare",
+        "genre": "HORROR",
+        "author": "Wes Craven",
+        "rating": 7.5
+    },
+    {
+        "title": "Saw",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 7.6
+    },
+    {
+        "title": "Insidious",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 6.8
+    },
+    {
+        "title": "Sinister",
+        "genre": "HORROR",
+        "author": "Scott Derrickson",
+        "rating": 6.8
+    },
+    {
+        "title": "Omen",
+        "genre": "HORROR",
+        "author": "Richard Donner",
+        "rating": 7.5
+    },
+    {
+        "title": "Exorcist",
+        "genre": "HORROR",
+        "author": "William Friedkin",
+        "rating": 8.0
+    },
+    {
+        "title": "RosemarysBaby",
+        "genre": "HORROR",
+        "author": "Roman Polanski",
+        "rating": 8.0
+    },
+    {
+        "title": "Carrie",
+        "genre": "HORROR",
+        "author": "Brian Palma",
+        "rating": 7.4
+    },
+    {
+        "title": "Misery",
+        "genre": "HORROR",
+        "author": "Rob Reiner",
+        "rating": 7.8
+    },
+    {
+        "title": "Shining",
+        "genre": "HORROR",
+        "author": "Stanley Kubrick",
+        "rating": 8.4
+    },
+    {
+        "title": "DoctorSleep",
+        "genre": "HORROR",
+        "author": "Mike Flanagan",
+        "rating": 7.3
+    },
+    {
+        "title": "It",
+        "genre": "HORROR",
+        "author": "Andy Muschietti",
+        "rating": 7.3
+    },
+    {
+        "title": "ItChapterTwo",
+        "genre": "HORROR",
+        "author": "Andy Muschietti",
+        "rating": 6.5
+    },
+    {
+        "title": "QuietPlace",
+        "genre": "HORROR",
+        "author": "John Krasinski",
+        "rating": 7.5
+    },
+    {
+        "title": "Conjuring2",
+        "genre": "HORROR",
+        "author": "James Wan",
+        "rating": 7.3
+    },
+    {
+        "title": "Annabelle",
+        "genre": "HORROR",
+        "author": "John Leonetti",
+        "rating": 5.4
+    },
+    {
+        "title": "Nun",
+        "genre": "HORROR",
+        "author": "Corin Hardy",
+        "rating": 5.3
+    },
+    {
+        "title": "Lighthouse",
+        "genre": "HORROR",
+        "author": "Robert Eggers",
+        "rating": 7.5
+    },
+    {
+        "title": "Witch",
+        "genre": "HORROR",
+        "author": "Robert Eggers",
+        "rating": 7.0
+    },
+    {
+        "title": "ColorOutOfSpace",
+        "genre": "HORROR",
+        "author": "Richard Stanley",
+        "rating": 6.2
+    },
+    {
+        "title": "Mandy",
+        "genre": "HORROR",
+        "author": "Panos Cosmatos",
+        "rating": 6.5
+    },
+    {
+        "title": "Climax",
+        "genre": "HORROR",
+        "author": "Gaspar Noe",
+        "rating": 7.0
+    },
+    {
+        "title": "Suspiria2018",
+        "genre": "HORROR",
+        "author": "Luca Guadagnino",
+        "rating": 6.7
+    }
+]

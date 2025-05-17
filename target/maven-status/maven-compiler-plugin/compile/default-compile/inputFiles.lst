@@ -1,2 +1,8 @@
 /home/vlad/Desktop/OP/coursework/movie-app/src/Main.java
-/home/vlad/Desktop/OP/coursework/movie-app/src/data/DatabaseInitializer.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/database/AuthorDao.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/database/DBInitializer.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/database/DBLoader.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/database/MovieDao.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/models/Author.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/models/Genre.java
+/home/vlad/Desktop/OP/coursework/movie-app/src/models/Movie.java
