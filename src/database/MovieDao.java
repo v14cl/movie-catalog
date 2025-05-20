@@ -1,10 +1,11 @@
 package database;
 
-import models.Movie;
-import models.Genre;
+import models.*;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+
+import generator.RecommendedStreamGenerator;
 
 public class MovieDao {
     private final Connection connection;
@@ -16,6 +17,7 @@ public class MovieDao {
         "SELECT m.*, a.name FROM movies m JOIN authors a ON m.author_id = a.id WHERE m.id = ?";
     private static final String SELECT_ALL_SQL = "SELECT * FROM movies";
     private static final String DELETE_ALL_SQL = "DELETE FROM movies";
+    private static final String GET_RECOMM_SQL = "SELECT * FROM movies WHERE rating > 7.5";
 
     public MovieDao(Connection connection) {
         this.connection = connection;
@@ -30,7 +32,7 @@ public class MovieDao {
             stmt.executeUpdate();
 
             try (Statement idStmt = connection.createStatement();
-                 ResultSet rs = idStmt.executeQuery(SELECT_LAST_ID_SQL)) {
+                ResultSet rs = idStmt.executeQuery(SELECT_LAST_ID_SQL)) {
                 if (rs.next()) {
                     movie.setId(rs.getInt(1));
                 }
@@ -59,7 +61,7 @@ public class MovieDao {
     public List<Movie> getAll() throws SQLException {
         List<Movie> movies = new ArrayList<>();
         try (PreparedStatement stmt = connection.prepareStatement(SELECT_ALL_SQL);
-             ResultSet rs = stmt.executeQuery()) {
+            ResultSet rs = stmt.executeQuery()) {
             while (rs.next()) {
                 movies.add(new Movie(
                     rs.getInt("id"),
@@ -71,6 +73,12 @@ public class MovieDao {
             }
         }
         return movies;
+    }
+
+    public RecommendedStreamGenerator streamRecommendedMovies() throws SQLException {
+        PreparedStatement stmt = connection.prepareStatement(GET_RECOMM_SQL);
+        ResultSet rs = stmt.executeQuery();
+        return new RecommendedStreamGenerator(stmt, rs);
     }
 
     public void clearTable() throws SQLException {
